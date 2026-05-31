@@ -1,0 +1,7 @@
+{
+  "name": "drag-and-play",
+  "version": "2.0.0",
+  "scripts": {
+    "build": "echo done"
+  }
+}
